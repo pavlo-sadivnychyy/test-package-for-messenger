@@ -1,0 +1,23 @@
+{
+  "name": "test-package-for-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlo1998/test-package-for-messenger.git"
+  },
+  "publishConfig": {
+    "@pavlo1998:registry": "https://npm.pkg.github.com"
+  },
+  "keywords": [],
+  "author": "pavlo1998",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlo1998/test-package-for-messenger/issues"
+  },
+  "homepage": "https://github.com/pavlo1998/test-package-for-messenger#readme"
+}
